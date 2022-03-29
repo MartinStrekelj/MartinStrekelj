@@ -2,13 +2,14 @@
 
 My name is Martin Štrekelj and I am a software engineer from Slovenia. I primarly focus on building full-stack web and mobile applications.
 
+
+<a href="https://app.daily.dev/MartinStrekelj"><img src="https://api.daily.dev/devcards/3007ed7d9afb4abca106bf6ba7ddd53d.png?r=2az" width="400" alt="Martin Štrekelj's Dev Card"/></a>
+
 ---
 
 ### 🧰 Tools I use 
 
 In my projects I use different technologies based on requirements (use the right tool for the job) and I am always open to learn new ones. 
-
-<a href="https://app.daily.dev/MartinStrekelj"><img src="https://api.daily.dev/devcards/3007ed7d9afb4abca106bf6ba7ddd53d.png?r=2az" width="400" alt="Martin Štrekelj's Dev Card"/></a>
 
 The technologies I am most confortable with are the following:
 
