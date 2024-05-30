@@ -27,10 +27,11 @@ For frontend:
 For backend:
 
 <p>
-   <img alt="NodeJs" src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJs" src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express-319795?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphQL&logoColor=white&style=flat" />
 </p>
 
 Other tools I frequently use to tie everything together:
@@ -48,21 +49,7 @@ Other tools I frequently use to tie everything together:
 
 <img align="center" alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinStrekelj&hide=python,html,css&theme=onedark&count_private=true&show_icons=true" />
 
----
-
-### 🌱 Things to learn in 2022
-
-Every year I setup a goal for myself to pick a couple technologies I would like to try and if they spark my interest eventually learn and include them in my toolbox for developing software.
-
-For year 2022 this techologies are:
- 
-<ul>
-  <li><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphQL&logoColor=white&style=flat" /></li>
-  <li><img alt="Strapi" src="https://img.shields.io/badge/Strapi-2F2E8B?logo=strapi&logoColor=white&style=flat" /></li>
-  <li><img alt="Web3" src="https://img.shields.io/badge/web3-F16822?logo=web3.js&logoColor=white&style=flat" /></li>
-  <li><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat" /></li>
-</ul>
-
+___
 <!--
 **MartinStrekelj/MartinStrekelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
